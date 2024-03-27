@@ -1,12 +1,27 @@
 {
-  "producto":[
-    {
-      "Email": "Sevillano",
-      "Contrasena": "12345"
-    },
-    {
-      "Email": "Mbappe",
-      "Contrasena": "Madrid"
-    }
-  ]
+    "producto": [
+        {
+            "Id": 1,            
+            "Descripcion": "Mouse",
+            "Precio": "30.00"
+        },
+
+        {
+            "Id": 2,
+            "Descripcion": "Mouse",
+            "Precio": "50.00"
+        },
+
+        {
+            "Id": 3,
+            "Descripcion": "Pantalla",
+            "Precio": "70.00"
+        },
+
+        {
+            "Id": 4,
+            "Descripcion": "Memoria RAM",
+            "Precio": "90.00"
+        }
+    ]
 }
